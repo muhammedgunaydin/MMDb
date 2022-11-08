@@ -1,0 +1,27 @@
+{
+  "name": "mmdb",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000M\u0000M\u0000D\u0000b\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muhammedgunaydin/MMDb.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/muhammedgunaydin/MMDb/issues"
+  },
+  "homepage": "https://github.com/muhammedgunaydin/MMDb#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongoose": "^6.7.1",
+    "nodemon": "^2.0.20",
+    "volleyball": "^1.5.1"
+  }
+}
